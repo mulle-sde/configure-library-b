@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.lo
+*.la
+.libs/
+.deps/
+autom4te.cache/
+config.log
+config.status
+libtool
+Makefile
+stamp-h1
+
+# Editor backup files
+*~
